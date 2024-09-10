@@ -1,0 +1,7 @@
+application:
+  response: "Update complete"
+spring:
+  datasource:
+    url: jdbc:h2:mem:test
+  h2:
+    console.enabled: true
